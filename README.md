@@ -1,4 +1,4 @@
-#The telegram bot scraping news from site and post them in telegram
+# The telegram bot scraping news from site and post them in telegram
 
 - git clone
 - python3 -m venv
