@@ -1,6 +1,6 @@
 #The telegram bot scraping news from site and post them in telegram
 
--git clone
+- git clone
 - python3 -m venv
 - . venv/bin/activate
 - pip install selenium telethon
